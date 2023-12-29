@@ -1,5 +1,6 @@
 function bankDetails(bankName,accountNum,location,pinCode){
-    console.log("Bank Name=",bankName ,":::", "Bank Account Number=",accountNum  ,":::", "Bank Location=",location ,":::","Bank Pin Code is=",pinCode);
+    console.log("Bank Name=",bankName ,":::", "Bank Account Number=",accountNum  ,":::", 
+    "Bank Location=",location ,":::","Bank Pin Code is=",pinCode);
     console.log("========================");
 }
 bankDetails("CITI Bank",3456782345,'Pune',431202);
