@@ -1,4 +1,4 @@
-var firstName = "Gajanan";
+var firstName = "Jija";
 console.log(typeof firstName);
 
 var age = 32;
