@@ -20,3 +20,10 @@ console.log(index);
         console.log(index );
         
     }
+    console.log(`========= Example of Infinite loop==============`);
+
+// for (let index = 5; index < 10; index--) {
+
+//    console.log(index); // 5 4 3 2 1 0 ----------
+
+// }

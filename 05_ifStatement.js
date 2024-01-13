@@ -9,7 +9,7 @@ if (age>=21) {
     console.log(`Eligible for marriage`);
     console.log('Inside if block');
 } else {
-   console.log(`Nope.. Please try next time...`); 
+   console.log(`Not.. Please try next time...`); 
 }
 var isEvenOrOdd = function (num) {
     var returnValue = "";
